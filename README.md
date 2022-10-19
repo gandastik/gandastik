@@ -7,9 +7,9 @@
 - 🙂 also I'm looking to grow as a developer and seek new opportunities of working in a real-world scenario and developing impactful products.
 
 #### ✔️ What have I done
-- build a community based websites [@Schedule Student Support](https://github.com/ExodiaZquad/SSS-Frontend) project for supporting KMITL's students class schedule management.
+- built a community based websites [@Schedule Student Support](https://github.com/ExodiaZquad/SSS-Frontend) project for supporting KMITL's students class schedule management.
 - developed a RESTful APIs using Django framework for [@Hotel Reservation Website](https://github.com/ExodiaZquad/Hotel-Backend) project.
-- also some other projects such as [@Teawthip](https://github.com/gandastik/TeawThip), [@Turn-based Battle Card Game](https://github.com/gandastik/CardGame),
+- also some other interesting projects such as [@Teawthip](https://github.com/gandastik/TeawThip), [@Turn-based Battle Card Game](https://github.com/gandastik/CardGame),
 [@Platformer Game](https://github.com/gandastik/InVaders)
 
 #### 📬 How to reach me
@@ -44,7 +44,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandastik&layout=compact&langs_count=10&hide=Jupyter+Notebook,CMake&theme=github_dark" alt="gandastik's langs" />
 </p>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="gandastik's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=gandastik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-<!---
-gandastik/gandastik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
