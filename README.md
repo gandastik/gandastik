@@ -15,7 +15,7 @@
 #### 📬 How to reach me
 - 💌 Email: s.kitsadang@gmail.com
 
-#### Languages and Tools
+#### 💻 Languages and Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="40"/>
