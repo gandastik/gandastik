@@ -7,7 +7,7 @@
 - 🙂 also I'm looking to grow as a developer and seek new opportunities of working in a real-world scenario and developing impactful products.
 
 #### ✔️ What have I done
-- participated in Hacktoberfest 2022. Contributed in open source projects: [@react-useless](https://github.com/narze/react-useless) and [@CPP-Algorithm](https://github.com/fsd30/CPP-Algorithms)
+- participated in Hacktoberfest 2022. Contributed in open source projects such as [@react-useless](https://github.com/narze/react-useless) and [@CPP-Algorithm](https://github.com/fsd30/CPP-Algorithms)
 - built a community based websites [@Schedule Student Support](https://github.com/ExodiaZquad/SSS-Frontend) project for supporting KMITL's students class schedule management.
 - developed a RESTful APIs using Django framework for [@Hotel Reservation Website](https://github.com/ExodiaZquad/Hotel-Backend) project.
 - also some other interesting projects such as [@Teawthip](https://github.com/gandastik/TeawThip), [@Turn-based Battle Card Game](https://github.com/gandastik/CardGame),
