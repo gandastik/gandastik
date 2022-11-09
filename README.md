@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 , I'm Kitsadang Sawangsiripol</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F71A1A&width=540&lines=A+passionate+and+motivated+software+developer" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71F1F&width=580&lines=A+passionate+and+enthusiastic+software+developer" alt="Typing SVG" /></a></h3>
 
 #### 👨‍💻 Who am I?
 - 🇹🇭 I'm a 3rd year computer engineering student from [@KMITL](https://www.kmitl.ac.th).
