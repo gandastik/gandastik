@@ -7,7 +7,7 @@
 - 🙂 also I'm looking to grow as a developer and seek new opportunities of working in a real-world scenario and developing impactful products.
 
 #### ✔️ What have I done
-- participated in Hacktoberfest 2022. Contributed in open source projects such as [@react-useless](https://github.com/narze/react-useless) and [@CPP-Algorithm](https://github.com/fsd30/CPP-Algorithms)
+- participated and completed Hacktoberfest 2022. Contributed in open source projects such as [@react-useless](https://github.com/narze/react-useless) and [@CPP-Algorithm](https://github.com/fsd30/CPP-Algorithms)
 - built a community based websites [@Schedule Student Support](https://github.com/ExodiaZquad/SSS-Frontend) project for supporting KMITL's students class schedule management.
 - developed a RESTful APIs using Django framework for [@Hotel Reservation Website](https://github.com/ExodiaZquad/Hotel-Backend) project.
 - also some other interesting projects such as [@Teawthip](https://github.com/gandastik/TeawThip), [@Turn-based Battle Card Game](https://github.com/gandastik/CardGame),
@@ -39,7 +39,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40"/>
 </p>
 
-#### 👀 Something interesting
+#### 👀 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gandastik&count_private=true&show_icons=true&theme=github_dark&hide_title=true&include_all_commits=true" alt="gandastik"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandastik&layout=compact&langs_count=10&hide=Jupyter+Notebook,CMake&theme=github_dark" alt="gandastik's langs" />
