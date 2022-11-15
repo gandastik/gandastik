@@ -3,7 +3,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71F1F&width=580&lines=A+passionate+and+enthusiastic+software+developer" alt="Typing SVG" /></a></h3>
 
 #### 👨‍💻 Who am I?
-- 🇹🇭 I'm a 3rd year computer engineering student from [@KMITL](https://www.kmitl.ac.th).
+- 🇹🇭 I'm a computer engineering student from [@KMITL](https://www.kmitl.ac.th).
 - 🙂 also I'm looking to grow as a developer and seek new opportunities of working in a real-world scenario and developing impactful products.
 
 #### ✔️ What have I done
