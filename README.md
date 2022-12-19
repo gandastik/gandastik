@@ -39,9 +39,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40"/>
 </p>
 
-#### 👀 
+<!-- #### 👀 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gandastik&count_private=true&show_icons=true&theme=github_dark&hide_title=true&include_all_commits=true" alt="gandastik"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandastik&layout=compact&langs_count=10&hide=Jupyter+Notebook,CMake&theme=github_dark" alt="gandastik's langs" />
-</p>
+</p> -->
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="gandastik's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=gandastik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
