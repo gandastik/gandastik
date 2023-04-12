@@ -7,12 +7,12 @@
 - I'm a computer engineering student from [@KMITL](https://www.kmitl.ac.th). -->
 <!-- - 🙂 also I'm looking to grow as a developer and seek new opportunities of working in a real-world scenario and developing impactful products. -->
 
-#### 📌 stuff I did
+<!-- #### 📌 stuff I did
 - participated and completed Hacktoberfest 2022. Contributed in open source projects such as [@react-useless](https://github.com/narze/react-useless) and [@CPP-Algorithm](https://github.com/fsd30/CPP-Algorithms)
 - built a community based websites [@Schedule Student Support](https://github.com/ExodiaZquad/SSS-Frontend) project for supporting KMITL's students class schedule management.
 - developed a RESTful APIs using Django framework for [@Hotel Reservation Website](https://github.com/ExodiaZquad/Hotel-Backend) project.
 - also some other interesting projects such as [@Teawthip](https://github.com/gandastik/TeawThip), [@Turn-based Battle Card Game](https://github.com/gandastik/CardGame),
-[@Platformer Game](https://github.com/gandastik/InVaders)
+[@Platformer Game](https://github.com/gandastik/InVaders) -->
 
 <!-- #### 📬 
 - Email: s.kitsadang@gmail.com -->
